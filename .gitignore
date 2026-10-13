@@ -1,0 +1,17 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos generados por Python
+__pycache__/
+*.pyc
+
+# Configuración de PyCharm
+.idea/
+
+# Archivos de logs
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
